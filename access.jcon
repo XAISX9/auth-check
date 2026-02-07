@@ -1,4 +1,8 @@
 {
   "status": "online",
-  "keys": ["твій_ключ_1", "твій_ключ_2"]
+  "keys": {
+    "user_key_1": "hour",
+    "user_key_2": "day",
+    "user_key_3": "hour"
+  }
 }
