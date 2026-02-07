@@ -1,8 +1,10 @@
 {
   "status": "online",
   "keys": {
-    "user_key_1": "hour",
-    "user_key_2": "day",
-    "user_key_3": "hour"
+    "_comment": "Нижче ключі на 1 годину",
+    "SUPER-KEY-111": ["Ivan_Ivanov"],
+
+    "_comment2": "Нижче ключі назавжди",
+    "ADMIN-KEY-999": ["Your_Nick"]
   }
 }
