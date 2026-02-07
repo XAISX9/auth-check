@@ -1,10 +1,13 @@
 {
   "status": "online",
   "keys": {
-    "_comment": "Нижче ключі на 1 годину",
-    "SUPER-KEY-111": ["Ivan_Ivanov"],
-
-    "_comment2": "Нижче ключі назавжди",
-    "ADMIN-KEY-999": ["Your_Nick"]
+    "SUPER-KEY-111": {
+      "type": "hour",
+      "nicks": ["Ivan_Ivanov", "sambura"]
+    },
+    "ADMIN-KEY-999": {
+      "type": "day",
+      "nicks": ["Your_Nick"]
+    }
   }
 }
