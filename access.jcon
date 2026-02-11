@@ -1,13 +1,13 @@
 {
   "status": "online",
   "keys": {
-    "SUPER-KEY-111": {
-      "type": "hour",
-      "nicks": ["x_AIS_x", "Arsen_Oldman"]
-    },
-    "ADMIN-KEY-999": {
-      "type": "day",
-      "nicks": ["Your_Nick"]
-    }
+    "1-HOUR-KEY": ["Nick_Name1"],
+    "2-HOURS-KEY": ["Nick_Name2"],
+    "3-HOURS-KEY": ["Nick_Name3"],
+    "4-HOURS-KEY": ["Nick_Name4"],
+    "5-HOURS-KEY": ["Nick_Name5"],
+    "6-HOURS-KEY": ["Nick_Name6"],
+    "1-DAY-KEY": ["Nick_Name7"],
+    "LIFETIME-KEY": ["Твій_Нік", "Nick_Friend"]
   }
 }
