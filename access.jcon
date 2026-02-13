@@ -3,7 +3,7 @@
   "keys": {
     "1-HOUR-KEY": {
       "nicks": ["Arsen_Oldman", "x_AIS_x"],
-      "expires": "1 hour"
+      "expires_at": 1739444220
     },
     "2-HOURS-KEY": {
       "nicks": ["Nick_Name2"],
