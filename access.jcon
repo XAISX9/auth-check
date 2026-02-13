@@ -1,13 +1,17 @@
 {
   "status": "online",
   "keys": {
-    "1-HOUR-KEY": ["Arsen_Oldman","x_AIS_x"],
-    "2-HOURS-KEY": ["Nick_Name2"],
-    "3-HOURS-KEY": ["Nick_Name3"],
-    "4-HOURS-KEY": ["Nick_Name4"],
-    "5-HOURS-KEY": ["Nick_Name5"],
-    "6-HOURS-KEY": ["Nick_Name6"],
-    "1-DAY-KEY": ["Nick_Name7"],
-    "LIFETIME-KEY": ["Твій_Нік", "Nick_Friend"]
+    "1-HOUR-KEY": {
+      "nicks": ["Arsen_Oldman", "x_AIS_x"],
+      "expires": "2024-05-20 18:00"
+    },
+    "1-DAY-KEY": {
+      "nicks": ["Nick_Name7"],
+      "expires": "2024-05-21 17:00"
+    },
+    "LIFETIME-KEY": {
+      "nicks": ["Твій_Нік", "Nick_Friend"],
+      "expires": "never"
+    }
   }
 }
