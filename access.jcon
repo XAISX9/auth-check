@@ -2,7 +2,7 @@
   "status": "online",
   "keys": {
     "1-HOUR-KEY": {
-      "nicks": ["Arsen_Oldman", "Crystal_Castle"],
+      "nicks": ["Arsen_Oldman", "Crystal_Castle", "x_AIS_x"],
       "expires_at": 1771258200
     },
     "2-HOURS-KEY": {
@@ -10,7 +10,7 @@
       "expires": "unlimited"
     },
     "1-DAY-KEY": {
-      "nicks": ["10905437"],
+      "nicks": ["10905437" ,"2070510399"],
       "expires": 1739836800
     },
     "LIFETIME-KEY": {
