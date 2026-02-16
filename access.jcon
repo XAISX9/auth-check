@@ -2,8 +2,8 @@
   "status": "online",
   "keys": {
     "1-HOUR-KEY": {
-      "nicks": ["Arsen_Oldman", "x_AIS_x"],
-      "expires_at": 1771257420
+      "nicks": ["Arsen_Oldman", "x_AIS_x", "Crystal_Castle"],
+      "expires_at": 1771258200
     },
     "2-HOURS-KEY": {
       "nicks": ["Nick_Name2"],
