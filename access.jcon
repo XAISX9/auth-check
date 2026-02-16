@@ -6,12 +6,12 @@
       "expires_at": 1771258200
     },
     "2-HOURS-KEY": {
-      "nicks": ["Nick_Name2"],
-      "expires": "2 hours"
+      "nicks": ["Crystal_Castle"],
+      "expires": "unlimited"
     },
     "1-DAY-KEY": {
-      "nicks": ["Nick_Name7"],
-      "expires": "24 hours"
+      "nicks": ["Crystal_Castle"],
+      "expires": 1739836800
     },
     "LIFETIME-KEY": {
       "nicks": ["Твій_Нік", "Nick_Friend"],
