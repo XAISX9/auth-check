@@ -2,14 +2,14 @@
   "status": "online",
   "keys": {
     "1-HOUR-KEY": {
-      "nicks": ["Arsen_Oldman", "Crystal_Castle", "x_AIS_x"],
-      "expires_at": 1771258200
+      "nicks": ["887679842", "1042795863", "2111161391"],
+      "expires": 1740614400
     },
     "2-HOURS-KEY": {
-      "nicks": ["Crystal_Castle"],
-      "expires": "unlimited"
+      "nicks": ["1042795863"],
+      "expires": 1740614400
     },
-    "1-DAY-KEY": {
+    "1": {
       "nicks": ["10905437", "2070510399"],
       "expires": 1740614400
     },
