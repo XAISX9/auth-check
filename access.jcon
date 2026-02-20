@@ -10,7 +10,7 @@
       "expires": "unlimited"
     },
     "1-DAY-KEY": {
-      "nicks": ["10905437" , "2070510399"],
+      "nicks": ["10905437", "2070510399"],
       "expires": 1740009600
     },
     "LIFETIME-KEY": {
